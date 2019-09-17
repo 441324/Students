@@ -1,5 +1,3 @@
-import UIKit
-
 struct Person {
     var name: String
     var surname: String
