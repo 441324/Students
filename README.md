@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  Student
-//
-//  Created by Виталий Григор on 16/09/2019.
-//  Copyright © 2019 Виталий Григор. All rights reserved.
-//
-
 import UIKit
 
 struct Person {
